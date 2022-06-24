@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-  //make variables for input
+  //make variables for input and counting
   string str1;
   int num=0;
   int letter=0;
